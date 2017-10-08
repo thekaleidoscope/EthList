@@ -31,6 +31,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [WTF is Ethereum?](http://whatthefuckisethereum.com/)
 
 #### Deeper explanations of Ethereum
+- [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
 - [Programmable Blockchains in context: Ethereum](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
@@ -103,6 +104,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
 - [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
+- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 
 #### Security:
 - [The Crypto-Trader’s Guide to Online Security
@@ -186,8 +188,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
 
 #### ICOs (Initial Coin Offerings):
-- [Ultimate ICO Calendar
-](www.scanate.co/ico
+- [ICO Calendar
+](https://github.com/avadhootkulkarni/UltimateICOCalendar
 )
 - [Smith and Crown
 ](https://www.smithandcrown.com/icos/
@@ -289,26 +291,28 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 #### Exchanges
 
 ##### Bitcoin
-https://www.bitfinex.com/
+[Bitfinex](https://www.bitfinex.com/?refcode=HHnU1oLSgo)
 
-https://www.bitmex.com/
+[Bitmex (Futures)](https://www.bitmex.com/)
 
 ##### Altcoins
-https://poloniex.com/
 
-https://bittrex.com/
+[Bittrex](https://bittrex.com)
 
-https://liqui.io/
+[Poloniex](https://poloniex.com/)
+
+[Liqui](https://liqui.io/)
 
 ##### Decentralized Exchanges (Mostly Eth assets)
-https://oasisdex.com/
+[OasisDex](https://oasisdex.com/)
 
-https://etherdelta.github.io/
+[EtherDelta](https://etherdelta.github.io/)
 
-https://cryptoderivatives.market/
+[CryptoDerivatives](https://cryptoderivatives.market/)
 
 ## Programming
 
+- [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
 - [Build your own crypto-currency with Ethereum](https://www.ethereum.org/token)
 - [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
 - [Build a democracy on the blockchain](https://www.ethereum.org/dao)
